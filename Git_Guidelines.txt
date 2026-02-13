@@ -9,3 +9,9 @@ git config --global user.email "you@example.com"
 4.git remote add origin https://github.com/ekrpatro/IVSEM_JFS.git
 
 5. git push origin master
+
+----------------------------
+to change in the local repo then you can follow these steps
+1. git add git_guidelines.txt
+2. git commit -m "git guidelines"
+3. git push origin master
