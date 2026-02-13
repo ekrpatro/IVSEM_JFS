@@ -1,0 +1,11 @@
+Git Guidelines
+To create a local git
+1. E:\IVSEM_JFS>git init
+2. git add .   (to add all the files in current directory)
+3. git commit -m "sink static"
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+4.git remote add origin https://github.com/ekrpatro/IVSEM_JFS.git
+
+5. git push origin master
